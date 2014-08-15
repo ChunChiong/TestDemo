@@ -13,6 +13,7 @@
 //判断系统是否是iOS7
 + (BOOL)isiOS7
 {
+    NSString *str = "lallalal";
     CGFloat version = [[UIDevice currentDevice].systemVersion floatValue];
     return version > 7.0;
 }
@@ -20,6 +21,7 @@
 //判断设备模型
 + (NSString *)deviceModel
 {
+    NSString *str = @"lululululu";
     return [UIDevice currentDevice].model;
 }
 
