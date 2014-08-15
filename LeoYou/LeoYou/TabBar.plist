@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imgs</key>
+	<array>
+		<string>TabBarIconFeaturedNormal</string>
+		<string>TabBarIconDestinationNormal</string>
+		<string>TabBarIconMyNormal</string>
+		<string>TabBarIconOfflineNormal</string>
+	</array>
+	<key>imgSel</key>
+	<array>
+		<string>TabBarIconFeatured</string>
+		<string>TabBarIconDestination</string>
+		<string>TabBarIconMy</string>
+		<string>TabBarIconOffline</string>
+	</array>
+	<key>viewControllers</key>
+	<array>
+		<string>FeaturedViewController</string>
+		<string>DestinationViewController</string>
+		<string>MyViewController</string>
+		<string>SearchViewController</string>
+	</array>
+	<key>title</key>
+	<array>
+		<string>精选</string>
+		<string>目的地</string>
+		<string>我的</string>
+		<string>查找</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,19 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+#define kDetailUrl @"http://m.qyer.com/lastminute/deal/%@/source=app"
+#define kScrollViewURL @"http://open.qyer.com/operation/get_top?client_secret=44c86dbde623340b5e0a&client_id=qyer_discount_ios"
+#import "PPRevealSideViewController.h"

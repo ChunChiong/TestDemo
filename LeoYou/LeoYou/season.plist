@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>1月</string>
+	<string>2月</string>
+	<string>3月</string>
+	<string>4月</string>
+	<string>5月</string>
+	<string>6月</string>
+	<string>7月</string>
+	<string>8月</string>
+	<string>9月</string>
+	<string>10月</string>
+	<string>11月</string>
+	<string>12月</string>
+</array>
+</plist>
