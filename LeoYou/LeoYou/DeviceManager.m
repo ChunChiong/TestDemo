@@ -21,7 +21,7 @@
 //判断设备模型
 + (NSString *)deviceModel
 {
-    NSString *str = @"lululululu";
+    NSString *str = @"hello c";
     return [UIDevice currentDevice].model;
 }
 
